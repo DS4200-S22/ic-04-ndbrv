@@ -1,0 +1,17 @@
+html {
+  font: Arial;
+}
+
+h1,
+h2 {
+  align-content: center;
+}
+
+.container {
+  border-style: solid;
+  border-color: black;
+}
+
+.italic {
+  font-style: italic;
+}
